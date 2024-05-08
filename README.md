@@ -23,12 +23,10 @@
 ## 实现流程
 
 ### 安装 sdk 包
-
-    先装 ktv tag 这个版本，后续测试验收通过后，会发到正式版本。
-
-    ```sh
-    npm install trtc-sdk-v5@ktv
-    ```
+先装 tag: ktv 这个版本，后续测试验收通过后，会发到正式版本。
+```sh
+npm install trtc-sdk-v5@ktv
+```
 
 ### 主唱
 
